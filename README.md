@@ -16,6 +16,10 @@
 - [Developers in Design Systems](https://bsky.app/starter-pack/sid.st/3lbcxu22day25) by [@sid.st](https://bsky.app/profile/sid.st)
 - [Web Components in Design Systems](https://bsky.app/starter-pack/darn.es/3lbah64td7z2p) by [@darn.es](https://bsky.app/profile/darn.es)
 
+## OSINT
+- [OSINT Starter Pack](https://go.bsky.app/GaTRbT3) by [@fsOc131y.com](https://bsky.app/profile/fs0c131y.com)
+
+
 ## Gaming
 
 - [World of Warcraft Community](https://bsky.app/starter-pack/stanzilla.dev/3laf57rsa5s2m) by [@stanzilla.dev](https://bsky.app/profile/stanzilla.dev)
