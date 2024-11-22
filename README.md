@@ -1,6 +1,6 @@
-# Awesome Bluesky Starterpack
+# Awesome Bluesky Lists
 
-😎 A collaborative list of great bluesky starterpack to find folks to follow.
+😎 A collaborative list of great bluesky lists to find folks to follow.
 
 ## Development
 
