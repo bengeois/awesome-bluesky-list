@@ -2,6 +2,10 @@
 
 😎 A collaborative list of great bluesky lists to find folks to follow.
 
+## Usefull tools
+- [Skyfeed](https://skyfeed.app/) - A feed builder
+- [Convert a BSky Starter Pack to a List](https://nws-bot.us/bskyStarterPack.php)
+
 ## Development
 
 - [Modern Web Dev Starter Pack](https://bsky.app/starter-pack/simomay.bsky.social/3ladqlchd3522) by [@simomay.bsky.social](https://bsky.app/profile/simomay.bsky.social)
